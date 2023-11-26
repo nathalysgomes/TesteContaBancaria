@@ -29,4 +29,4 @@ Nathaly Gomes
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ 2023 - BTesteContaBancaria
+## Copyright ©️ 2023 - TesteContaBancaria
