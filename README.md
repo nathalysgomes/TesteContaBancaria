@@ -13,7 +13,7 @@ Repositório utilizado para armazenar teste em java com cucumber.
 ## Evidências de testes 🗂️
 ✔️ Código arquivo POM
 
-<img src="TesteContaBancaria/Captura de tela 2023-11-27 201815.png">
+<img src="Captura de tela 2023-11-27 201815.png">
 
 ✔️ Cenários e passos
 
