@@ -15,9 +15,11 @@ Repositório utilizado para armazenar teste em java com cucumber.
 
 <img src="Captura de tela 2023-11-27 201815.png">
 
+
 ✔️ Cenários e passos
 
 <img src="Captura de tela 2023-11-27 202600.png">
+
 
 ✔️ Relatórios de testes
 
@@ -25,17 +27,20 @@ Repositório utilizado para armazenar teste em java com cucumber.
 
 <img src="Captura de tela 2023-11-27 203105.png">
 
+
 ✔️ Classe do projeto com orientação do cucumber
 
 <img src="Captura de tela 2023-11-27 205249.png">
 
 <img src="Captura de tela 2023-11-27 205414.png">
 
+
 ✔️ Testando a implementação
 
 <img src="Captura de tela 2023-11-27 225226.png">
 
 <img src="Captura de tela 2023-11-27 225246.png">
+
 
 ✔️ Documentação 
 
